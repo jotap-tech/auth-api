@@ -139,4 +139,4 @@ npm run dev
 
 ### João Pedro
 
-🔗 GitHub: https://github.com/seu-github
+🔗 GitHub: https://github.com/jotap-tech
