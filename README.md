@@ -6,6 +6,17 @@ O projeto consiste em uma API REST integrada com um frontend em React para reali
 
 ---
 
+
+# 🌎 Deploy
+
+## 🔗 Frontend
+👉 http://auth-api-bay-seven.vercel.app/
+
+## 🔗 Backend API
+👉 https://auth-api-oxvj.onrender.com/users
+
+---
+
 # 📸 Preview
 
 ![Preview do Projeto](./print.jpeg)
